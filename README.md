@@ -29,7 +29,7 @@ avito_intern/
 
 ## 🚀 Установка
 ```
-git clone git@github.com:V1a6imir/Avito-intern.git
+git clone https://github.com/V1a6imir/Avito-intern.git
 cd Avito-intern
 python3 -m venv venv
 source venv/bin/activate
@@ -57,3 +57,4 @@ id,predicted_positions
 1,"[3, 6, 7, 19]"
 2,"[4, 12, 13, 21, 22, 29]"
 ```
+
