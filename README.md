@@ -36,7 +36,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 ## ▶️ Запуск
-Скачайте [`dataset_1937770_3.txt`](https://stepik.org/api/attempts/1471200512/file) с Stepik и положите в папку data/.
+Скачайте [`dataset_1937770_3.txt`](https://drive.google.com/file/d/1atYU5h9EhZL6lhWW5Tinicnrnvdvni-l/view?usp=sharing) с Stepik и положите в папку data/.
 
 Выполните:
 ```
@@ -57,4 +57,5 @@ id,predicted_positions
 1,"[3, 6, 7, 19]"
 2,"[4, 12, 13, 21, 22, 29]"
 ```
+
 
